@@ -31,17 +31,11 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 <Details open="">
 <Summary><b>🛠 Tech. Stacks & Tools</b></Summary>
 
-### ⚙️ Workstation
-<p>
-   <a href="#"><img alt="processor" src ="https://img.shields.io/badge/AMD_R7_12th-0071C5?style=for-the-badge&logo=AMD&logoColor=white"></a>
-   <a href="#"><img alt="PC" src="https://img.shields.io/badge/Windows-ASUS ROG G15 -0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-</p>
 
 ### Languages :
 <img alt="Java" src="https://img.shields.io/badge/java-%2300C7B7.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;
 <a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Apython"><img alt="| Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 <a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3AC"><img alt=" | C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Ac%2B%2B"><img alt="| C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 
 
 ### Web Dev
