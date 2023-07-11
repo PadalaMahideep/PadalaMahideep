@@ -89,8 +89,8 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 <details open="">
   <summary><b>📈 My Github Stats 📊</b></summary>
   <p align="center">
-    <a href="https://github.com/PixelPilot-dot"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PixelPilot-dot&theme=highcontrast"/></a>
-<img src="https://github-readme-stats.vercel.app/api?username=PixelPilot-dot&theme=radical"></a>
+    <a href="https://github.com/PadalaMahideep"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PadalaMahideep&theme=highcontrast"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=PadalaMahideep&theme=radical"></a>
   
 
 </details>
