@@ -48,6 +48,7 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 <a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Acss"><img alt="| CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Ahtml"><img alt="| HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3ASCSS"><img alt="| HTML" src="https://img.shields.io/badge/SCSS-%23E34F26.svg?style=for-the-badge&logo=CSS3&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3APadalaMahideep+is%3Arepo+language%3Aphp"><img alt="| Tailwind" src="https://img.shields.io/badge/tailwind-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Aphp"><img alt="| PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Ajavascript"><img alt="| JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
 
@@ -82,7 +83,6 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Hyper%20-%23181717.svg?&style=for-the-badge&logo=Hyper&logoColor=white" />&nbsp;&nbsp;
 
 
 </Details>
@@ -97,15 +97,15 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 <details open="">
 <summary><b>📈 Top Languages 📊</b></summary>
 <p align="center">
- <a href="https://github.com/PixelPilot-dot">
-  <img title="🔥" alt="Ram's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelPilot-dot&langs_count=10&hide=html,Jupyter%20Notebook,css&layout=compact&count_private=true&hide_border=true&bg_color=282a36&text_color=f7f7f1&title_color=7957d4">
+ <a href="https://github.com/PadalaMahideep">
+  <img title="🔥" alt="Mahi's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PadalaMahideep&langs_count=10&hide=html,Jupyter%20Notebook,css&layout=compact&count_private=true&hide_border=true&bg_color=282a36&text_color=f7f7f1&title_color=7957d4">
  </a>
 </p>
 </details>
 <details open="">
 <Summary><b>👨‍💻 Check the other Profiles</Summary>
 <center>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=PixelPilot-dot" alt="visitor badge"/>     
+<img src="https://visitor-badge.laobi.icu/badge?page_id=PadalaMahideep" alt="visitor badge"/>     
 
 </center>
 
